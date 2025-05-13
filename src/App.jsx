@@ -25,7 +25,7 @@
 // export default App;
 
 import React from 'react';
-import MapView from './components/MapView/MapView';
+import MapView from './Components/MapView/MapView';
 
 function App() {
   return (
